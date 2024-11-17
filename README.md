@@ -7,7 +7,7 @@ This tool creates PDF files through the Chrome DevTools Protocol using the [chro
 ## Installation
 
 ```sh
-go get github.com/modernice/pdfire
+go get github.com/imkiptoo/pdfire
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ package main
 import (
     "net/http"
 
-    "github.com/modernice/pdfire/server"
+    "github.com/imkiptoo/pdfire/server"
 )
 
 func main() {
@@ -44,7 +44,7 @@ package main
 import (
     "bytes"
     "strings"
-    "github.com/modernice/pdfire"
+    "github.com/imkiptoo/pdfire"
 )
 
 func main() {

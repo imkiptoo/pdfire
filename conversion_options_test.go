@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/modernice/pdfire"
+	"github.com/imkiptoo/pdfire"
 	"github.com/chromedp/cdproto/page"
 	"github.com/stretchr/testify/assert"
 )

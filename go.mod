@@ -1,4 +1,4 @@
-module github.com/modernice/pdfire
+module github.com/imkiptoo/pdfire
 
 go 1.12
 

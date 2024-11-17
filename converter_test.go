@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/modernice/pdfire"
+	"github.com/imkiptoo/pdfire"
 	"github.com/stretchr/testify/assert"
 )
 
