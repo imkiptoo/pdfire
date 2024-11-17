@@ -1,0 +1,16 @@
+{
+    "documents": [
+        {
+            "html": "<p>Page 1</p>"
+        },
+        {
+            "html": "<p>Page 2</p>",
+            "ownerPassword": "should-be-empty"
+        },
+        {
+            "html": "<p>Page 3</p>"
+        }
+    ],
+    "ownerPassword": "owner-pw",
+    "userPassword": "user-pw"
+}
